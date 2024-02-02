@@ -1,6 +1,6 @@
 # Shell and Git CheatSheet
 
-Command = Description
+<a href="https://www.codecademy.com/resources/cheatsheets/language/bash">Guides</a>
 
 ## Shell
 
