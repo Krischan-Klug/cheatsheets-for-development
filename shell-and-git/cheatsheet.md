@@ -1,4 +1,4 @@
-# Shell and Git Commands
+# Shell and Git CheatSheet
 
 Command = Description
 
