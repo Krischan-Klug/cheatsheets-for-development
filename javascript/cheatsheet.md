@@ -6,6 +6,8 @@
 
 ## Formulars tips and tricks
 
+
+`code`
 //how to get data out of a formular with the browser API
 
 const form = document.querySelector('[data-js="form"]');
